@@ -1,0 +1,47 @@
+foobar:~/dodge-the-lasers alexroat$ verify solution.py 
+Verifying solution...
+All test cases passed. Use submit solution.py to submit your solution
+foobar:~/dodge-the-lasers alexroat$ submit solution.py 
+Are you sure you want to submit your solution?
+[Y]es or [N]o: y
+Submitting solution...
+With one last roar of the escape pod's engines, you and your bunny companions jump to lightspeed. Congratulations! You've destroyed the LAMBCHOP, rescued the bunnies, gotten Commander Lambda off your tail, and saved the galaxy. Time for a little rest and relaxation back on Bunny Planet. Pat yourself on the back - you've earned it!
+Submission: SUCCESSFUL. Completed in: 21 hrs, 27 mins, 37 secs.
+
+
+
+                                   /@                                            /@                                            /@
+                                  @~/@     @@                                   @~/@     @@                                   @~/@     @@
+                                 @~~/ %   @$%@                                 @~~/ %   @$%@                                 @~~/ %   @$%
+                                @~(((((%/////@                                @~(((((%/////@                                @~(((((%/////
+@                               @((/////@~//~~@                               @((/////@~//~~@                               @((/////@~//~
+                                @(/// @//////@                                @(/// @//////@                                @(/// @//////
+                                 @//% @~~~/~@                                  @//% @~~~/~@                                  @//% @~~~/~@
+                                /@$$$ @///~~/@                                /@$$$ @///~~/@                                /@$$$ @///~~/
+                               @        ////@@                               @        ////@@                               @        ////@
+                              @$   //@@@((/~ @                              @$   //@@@((/~ @                              @$   //@@@((/~
+//@                          @$  //@    @  ((///@                          @$  //@    @  ((///@                          @$  //@    @  ((
+//%%@                       @$      (@@@  ((((//%%@                       @$      (@@@  ((((//%%@                       @$      (@@@  ((
+((//                        @                 ((//                        @                 ((//                        @
+((((  /%//////@@     //@      @ ~        (((((((((  /%//////@@     //@      @ ~        (((((((((  /%//////@@     //@      @ ~        ((((
+     %  ~~~~~~~~/   /@$         @~                 %  ~~~~~~~~/   /@$         @~                 %  ~~~~~~~~/   /@$         @~
+       ~~~~~////////$               @@/$             ~~~~~////////$               @@/$             ~~~~~////////$               @@/$
+~~      ~~~~~~~~~~///@                //@@@%%/~~      ~~~~~~~~~~///@                //@@@%%/~~      ~~~~~~~~~~///@                //@@@%%
+      ~~~~~~~//////@$@@                ~~~          ~~~~~~~//////@$@@                ~~~          ~~~~~~~//////@$@@                ~~~
+           ~~~~((((///////@        $$$                   ~~~~((((///////@        $$$                   ~~~~((((///////@        $$$
+         ~~~~(////////(($@       $~~~~ %%%   /         ~~~~(////////(($@       $~~~~ %%%   /         ~~~~(////////(($@       $~~~~ %%%
+           ~~~~((((((%%%@       @$$~~ @   $$/            ~~~~((((((%%%@       @$$~~ @   $$/            ~~~~((((((%%%@       @$$~~ @   $$/
+           (((((((%%%%%@        \\@@@@                   (((((((%%%%%@        \\@@@@                   (((((((%%%%%@        \\@@@@
+           $$$$$$$$$@                                    $$$$$$$$$@                                    $$$$$$$$$@
+         $$$%%%%%%@                                    $$$%%%%%%@                                    $$$%%%%%%@
+       $$%%%%%%%%@                                   $$%%%%%%%%@                                   $$%%%%%%%%@
+   @ /// $$%%%%%%@                               @ /// $$%%%%%%@                               @ /// $$%%%%%%@
+@////       @@@@@                             @////       @@@@@                             @////       @@@@@
+@////@@@@@@@@@                                @////@@@@@@@@@                                @////@@@@@@@@@
+ @////@                                        @////@                                        @////@
+
+
+<encrypted>
+GksWDREMBAcSS0VCUkgGBgQNEV9eT0YXDgAJHRMIFBFGTF9YVQoSAAQJCB0WSE1URgkDHh0dFQdG TF9YVQYPFxMJAREQAwRTTUxCGREHCBEXCQgdHBtGVFtMQg0cAw4XCgkBX15PRgYADgcRBhxGVFtM QgsTCQRTTUxCHh0ARlRbTEIPGwFAUxw= </encrypted>
+
+For your eyes only!
